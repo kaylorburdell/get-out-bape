@@ -1,4 +1,5 @@
    		h1 {
+	          font-size: 2em;
 	          font-family:'arial' ;
 	          color: #00628B;
 	      } 
@@ -30,7 +31,19 @@
 	                   margin-left: 20px;
 	                   padding: 5px;
 	      }
-	     
+	     	article h1 {text-align:center;
+	          			background-color: #E6E6DC;
+	          			color: #00628B}
+	        article h2 {text-align:center;
+	          			background-color: #E6E6DC;
+	          			color: #00628B}
+	        article h3 {background-color: #E6E6DC;
+	        			font-family:'arial';
+	        			font-size: 1em;
+	          			color: #00628B;
+	          			margin-right: 20px;
+	                   	margin-left: 20px;
+	                   	padding: 5px;}
 	    article img {
 	      width: 30%;   
 	     display: block;
