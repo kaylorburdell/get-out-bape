@@ -1,7 +1,39 @@
-html{
-  background-color: white;
-}
-
-p{
-color: #000080
-}
+   		h1 {
+	          font-family:'arial' ;
+	          color: #00628B;
+	      } 
+	      header {
+	          text-align:center;
+	          background-color: #81A594;
+	          color: #00628B;
+	      }
+	      article {
+	          width: 80%;
+	          margin-right: auto;
+	          margin-left: auto;
+	          background-color: #E6E6DC;
+	          
+	      }
+	      h2 {
+	          font-family:'arial';
+	          font-size: 1em;
+	          color: #00628B;
+	          margin-left: 10px;
+	      }
+	      footer {
+	          text-align:center;
+	          background-color: #81A594;
+	          font-family:'arial'
+	      }
+	       article p {font-family: 'arial';
+	                   margin-right: 20px;
+	                   margin-left: 20px;
+	                   padding: 5px;
+	      }
+	     
+	    article img {
+	      width: 30%;   
+	     display: block;
+        margin-left: auto;
+        margin-right: auto;
+	     }
