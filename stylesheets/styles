@@ -52,7 +52,7 @@
 	     }
             /* unvisited link */
             a:link {
-            color: #004D6F;
+            color: blue;
             }
 
             /* visited link */
