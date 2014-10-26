@@ -3,7 +3,7 @@
 	          font-family:'arial' ;
 	          color: #42726F;
 	      } 
-	      h1 header {
+	      header h1 {
 	          text-align:center;
 	          background-color: #02221F;
 	          color: #42726F;
